@@ -1,4 +1,4 @@
-name: "action-123"
+name: "Action_123"
 execute_commands:
   - "echo 123;"
 docker_image_name: "ubuntu"
