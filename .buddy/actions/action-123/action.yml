@@ -15,5 +15,5 @@ name: "action-123"
 
 #cached_dirs:
 #  - ""
-#docker_image_name: ""
-#docker_image_tag: ""
+docker_image_name: "ubuntu"
+docker_image_tag: "latest"
