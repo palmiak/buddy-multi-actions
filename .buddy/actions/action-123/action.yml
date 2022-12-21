@@ -6,5 +6,5 @@ name: "cloudflare_action"
 #volume_mappings:
 #working_directory:
 #cached_dirs:
-#docker_image_name: ""
-#docker_image_tag: ""
+docker_image_name: "ubuntu"
+docker_image_tag: "latest"
