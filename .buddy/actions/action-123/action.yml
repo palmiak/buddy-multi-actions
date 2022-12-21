@@ -3,8 +3,8 @@ name: "action-123"
 
 #outputs:
 
-#execute_commands:
-#  - 
+execute_commands:
+  - "echo 123;"
 
 #tabs:
 
