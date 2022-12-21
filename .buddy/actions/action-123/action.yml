@@ -1,5 +1,10 @@
-name: "Action_123"
+name: "cloudflare_action"
+inputs:
+outputs:
 execute_commands:
-  - "echo 123;"
-docker_image_name: "ubuntu"
-docker_image_tag: "latest"
+tabs:
+volume_mappings:
+working_directory:
+cached_dirs:
+docker_image_name: ""
+docker_image_tag: ""
