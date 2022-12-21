@@ -1,10 +1,10 @@
 name: "cloudflare_action"
-inputs:
-outputs:
-execute_commands:
-tabs:
-volume_mappings:
-working_directory:
-cached_dirs:
-docker_image_name: ""
-docker_image_tag: ""
+#inputs:
+#outputs:
+#execute_commands:
+#tabs:
+#volume_mappings:
+#working_directory:
+#cached_dirs:
+#docker_image_name: ""
+#docker_image_tag: ""
